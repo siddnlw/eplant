@@ -9,7 +9,7 @@ function Testimonial() {
       <div className="testimonial-title">What our Custormers <br /> Are Say Us</div>
       <div className="testimonial-title-card">
 
-        <div className="testimonial-card">
+        <div className="testimonial-card prev">
           <div className="testimonial-comment">Excellent value for money holiday. My questions were all answerd promptly and when my consultant was unavailable, another staff member would respond.</div>
           <div className="testimonial-submiter">
             <div className="testimonial-user-image">
@@ -29,7 +29,7 @@ function Testimonial() {
           </div>
         </div>
 
-        <div className="testimonial-card">
+        <div className="testimonial-card center">
           <div className="testimonial-comment">Easy booking no problems with using vouchers or service. Voucher received in mail when we got home. Bonus for next holiday. Thank you</div>
           <div className="testimonial-submiter">
             <div className="testimonial-user-image">
@@ -49,7 +49,7 @@ function Testimonial() {
           </div>
         </div>
 
-        <div className="testimonial-card">
+        <div className="testimonial-card next">
           <div className="testimonial-comment">Very Easy booking no problems with using vouchers or service. Voucher received in mail when we got home. Bonus for next holiday. Thank you</div>
           <div className="testimonial-submiter">
             <div className="testimonial-user-image">

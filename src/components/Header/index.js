@@ -6,6 +6,9 @@ function Header() {
     <div className="Header">
 		<div className="header-menu">
 			<div className="header-logo">
+				<div className="menu-button">
+					<i className="fa-solid fa-bars"></i>
+				</div>
 				<img src={Logo} alt="" />
 			</div>
 			<div className="menu-item active"><a href="#">Home</a></div>
