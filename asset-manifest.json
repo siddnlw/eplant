@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/eplant/static/css/main.86022993.css",
+    "main.js": "/eplant/static/js/main.741a334f.js",
+    "static/js/787.f0791b33.chunk.js": "/eplant/static/js/787.f0791b33.chunk.js",
+    "static/media/banner-1-img.png": "/eplant/static/media/banner-1-img.165da17d9bb570f05402.png",
+    "static/media/card-1.png": "/eplant/static/media/card-1.162e87baef8ac8a9adcf.png",
+    "static/media/card-2.png": "/eplant/static/media/card-2.a279c7ecee8a912d5a40.png",
+    "index.html": "/eplant/index.html",
+    "main.86022993.css.map": "/eplant/static/css/main.86022993.css.map",
+    "main.741a334f.js.map": "/eplant/static/js/main.741a334f.js.map",
+    "787.f0791b33.chunk.js.map": "/eplant/static/js/787.f0791b33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86022993.css",
+    "static/js/main.741a334f.js"
+  ]
+}
